@@ -8,7 +8,7 @@ TITOLO = "La nostra cucina · Ricettario"
 APP_ID = "La-nostra-cucina-Ricettario"                 # nome fisso dell'app: da qui dipendono porta e cartella dei dati
 PAGINA = "index.html"
 LARGHEZZA, ALTEZZA = 1200, 800
-SCHERMO_INTERO = True
+SCHERMO_INTERO = False
 
 BASE = os.path.join(getattr(sys, "_MEIPASS", os.path.dirname(os.path.abspath(__file__))), "app")
 # I dati dell'app (localStorage, IndexedDB) restano qui tra un avvio e l'altro

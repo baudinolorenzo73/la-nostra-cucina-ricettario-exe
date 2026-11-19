@@ -1,4 +1,4 @@
-# La nostra cucina · Ricettario 1.0
+# La nostra cucina · Ricettario 1.1
 
 App HTML trasformata in programma per Windows: si apre in una finestra con il motore di Edge (WebView2).
 

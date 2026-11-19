@@ -1,6 +1,6 @@
 {
   "nome": "La-nostra-cucina-Ricettario",
-  "versione": "1.0",
+  "versione": "1.1",
   "tipo": "html",
   "avvio": "avvia_app.py",
   "pagina": "index.html",
